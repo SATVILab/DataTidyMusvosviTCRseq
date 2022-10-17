@@ -3,7 +3,7 @@ graphics.off()
 library(rio)
 
 
-cluster_freqs <- import("Frequencies_of_Mtb_gliph_clusters.csv")
+cluster_freqs <- import("Frequencies_of_Mtb_gliph_clusters_in_controllers_and_progressors_with_spline_timepoint.csv")
 
 
 signficant_cluster_order_in_figure5 <- c("DRB1*15 SVAL","DRB1*15 VALL","DRB3*01 SRDN%P","DRB5*01 ALFG","DQA1*01 SLQG%GYE","DRB1*15 SVAL%GNT","DRB1*15 GEAK","DPA1*01 SLG%PNTE","DRB1*13 R%GDYG","DRB1*15 SVALLG%T","DQB1*06 GEAK","DRB1*03 %PGWGMNTE","DQA1*01 GEAK","DRB3*01 %PGWGMNTE","DQB1*06 R%SGGEAKNI","DPA1*02 S%RQGAGYG","DQA1*01 GGKG%QP","DRB5*01 ST%NTE","DQA1*01 SS%RGTE","DRB4*01 SP%RSE","DRB1*04 S%LAAGQET","DRB3*02 SRDKG%NQP","DPB1*105 SLG%WET","DRB1*03 S%EDRGNTE","DRB1*03 R%TGPNE","DRB3*01 S%EDRGNTE","DPB1*105 RVLG%NE","DRB3*01 R%TGPNE","DRB1*03 RVLG%NE","DRB1*03 RR%GPNE")
