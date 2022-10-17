@@ -1,4 +1,4 @@
-donorId,alleles,Ncluster,donorGrp,unique,total,ratio (# of group per 100)
+donorId,alleles,Ncluster,donorGrp,unique,total,ratio
 04-0699,DRB1*15,7,NonProgressor,315,701,2.222222222
 04-0699,DQA1*05,2,NonProgressor,315,701,0.634920635
 04-0699,DRB3*02,3,NonProgressor,315,701,0.952380952
