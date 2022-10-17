@@ -1,0 +1,229 @@
+,Donor ID,Study Day,Group,cohort,sc TCRseq,bulk TCRseq,comment,sex,age_at_enrolment
+1,04-0695,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,14
+2,04-0695,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,14
+3,04-0695,540,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,14
+4,04-0859,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+5,04-0910,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,13
+6,04-0910,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,13
+7,04-0910,540,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,13
+8,04-1241,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+9,04-1241,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+10,04-1241,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+11,07-0060,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,18
+12,07-0060,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,18
+13,07-0060,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,18
+14,07-0262,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+15,07-0262,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+16,07-0262,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+17,07-0262,540,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+18,07-0386,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+19,07-0386,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+20,07-0386,540,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+21,07-0561,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,15
+22,07-0630,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+23,07-0630,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+24,07-0630,540,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+25,07-0692,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+26,07-0692,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+27,07-0692,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+28,07-1003,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+29,07-1153,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+30,07-1153,180,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+31,07-1153,360,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+32,07-1153,540,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+33,09-0507,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,male,16
+34,09-0789,0,Progressor,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+35,09-0296,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,15
+36,04-1104,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+37,04-1104,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+38,07-0202,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+39,07-0202,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+40,07-0119,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+41,07-0119,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+42,07-0119,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,17
+43,04-0699,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+44,04-0699,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+45,04-0699,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+46,04-0333,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+47,04-0333,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+48,07-0080,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+49,07-0080,540,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+50,07-0208,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+51,07-0208,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,17
+52,07-0236,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+53,04-0741,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+54,04-0741,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+55,07-0177,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+56,07-0177,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+57,07-0177,540,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,16
+58,04-0843,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,15
+59,04-0843,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,male,15
+60,07-1112,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+61,07-1112,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+62,01-0935,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,13
+63,07-1135,0,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+64,07-1135,180,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+65,07-1135,360,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+66,07-1135,540,Controller,ACS,yes,yes,both single cell and bulk TCRseq performed,female,14
+67,04-0859,180,Progressor,ACS,no,yes,only bulk TCRseq performed,female,16
+68,07-0561,180,Progressor,ACS,no,yes,only bulk TCRseq performed,female,15
+69,07-1003,180,Progressor,ACS,no,yes,only bulk TCRseq performed,female,17
+70,07-1003,360,Progressor,ACS,no,yes,only bulk TCRseq performed,female,17
+71,07-1003,540,Progressor,ACS,no,yes,only bulk TCRseq performed,female,17
+72,09-0462,0,Controller,ACS,no,yes,"single cell data excluded_due_to_contamination, but separate vial used to perform bulk TCRseq",male,16
+73,07-0080,0,Controller,ACS,no,yes,only bulk TCRseq performed,female,17
+74,07-0080,180,Controller,ACS,no,yes,only bulk TCRseq performed,female,17
+75,04-0843,540,Controller,ACS,no,yes,only bulk TCRseq performed,male,15
+76,01-0782,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,13
+77,01-0782,720,Progressor,ACS,yes,no,only single cell TCRseq performed,female,13
+78,01-0993,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,13
+79,02-0185,0,Progressor,ACS,yes,no,only single cell TCRseq performed,male,15
+80,03-0442,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+81,03-0448,0,Progressor,ACS,yes,no,only single cell TCRseq performed,male,18
+82,04-0152,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+83,04-0152,180,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+84,04-0511,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,14
+85,04-0718,180,Progressor,ACS,yes,no,only single cell TCRseq performed,female,12
+86,04-0718,360,Progressor,ACS,yes,no,only single cell TCRseq performed,female,12
+87,04-0779,0,Progressor,ACS,yes,no,only single cell TCRseq performed,male,15
+88,04-1056,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,15
+89,07-0135,0,Progressor,ACS,yes,no,only single cell TCRseq performed,male,18
+90,07-0150,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,17
+91,07-0150,180,Progressor,ACS,yes,no,only single cell TCRseq performed,female,17
+92,07-0257,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+93,07-0259,180,Progressor,ACS,yes,no,only single cell TCRseq performed,female,15
+94,07-0259,360,Progressor,ACS,yes,no,only single cell TCRseq performed,female,15
+95,07-0390,360,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+96,07-0390,540,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+97,07-0414,180,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+98,07-0414,360,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+99,07-0425,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+100,07-0663,0,Progressor,ACS,yes,no,only single cell TCRseq performed,male,15
+101,07-0663,360,Progressor,ACS,yes,no,only single cell TCRseq performed,male,15
+102,07-0663,540,Progressor,ACS,yes,no,only single cell TCRseq performed,male,15
+103,09-0278,0,Progressor,ACS,yes,no,only single cell TCRseq performed,male,15
+104,09-0314,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,16
+105,09-0569,0,Progressor,ACS,yes,no,only single cell TCRseq performed,female,18
+106,07-1147,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,13
+107,09-0248,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+108,09-0581,0,Controller,ACS,yes,no,only single cell TCRseq performed,male,17
+109,07-0293,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+110,07-0293,180,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+111,04-1119,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,14
+112,04-1020,0,Controller,ACS,yes,no,only single cell TCRseq performed,male,14
+113,04-1020,180,Controller,ACS,yes,no,only single cell TCRseq performed,male,14
+114,04-1020,540,Controller,ACS,yes,no,only single cell TCRseq performed,male,14
+115,04-0886,180,Controller,ACS,yes,no,only single cell TCRseq performed,female,13
+116,04-0886,360,Controller,ACS,yes,no,only single cell TCRseq performed,female,13
+117,07-0361,0,Controller,ACS,yes,no,only single cell TCRseq performed,male,15
+118,07-1132,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,13
+119,07-1132,540,Controller,ACS,yes,no,only single cell TCRseq performed,female,13
+120,04-0979,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,15
+121,09-0467,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,13
+122,07-0290,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+123,04-1003,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,15
+124,04-1003,180,Controller,ACS,yes,no,only single cell TCRseq performed,female,15
+125,07-0218,360,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+126,07-0218,540,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+127,07-0440,180,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+128,07-0440,360,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+129,07-0236,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+130,09-0406,0,Controller,ACS,yes,no,only single cell TCRseq performed,male,15
+131,01-0978,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,16
+132,09-0587,0,Controller,ACS,yes,no,only single cell TCRseq performed,male,16
+133,09-0529,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,18
+134,09-0712,0,Controller,ACS,yes,no,only single cell TCRseq performed,female,17
+135,01-0673,0,Progressor,ACS,no,no,single cell data excluded_due_to_contamination,male,16
+136,01-0757,0,Progressor,ACS,no,no,PBMC vials not available,male,15
+137,03-0545,0,Progressor,ACS,no,no,single cell data excluded_due_to_contamination,male,15
+138,04-0030,0,Progressor,ACS,no,no,PBMC vials not available,male,17
+139,04-0030,180,Progressor,ACS,no,no,PBMC vials not available,male,17
+140,04-0238,180,Progressor,ACS,no,no,single cell data excluded_due_to_contamination,female,13
+141,07-0259,540,Progressor,ACS,no,no,PBMC vials not available,female,15
+142,07-0425,180,Progressor,ACS,no,no,PBMC vials not available,female,16
+143,09-0453,0,Progressor,ACS,no,no,single cell data excluded_due_to_contamination,female,14
+144,09-0345,0,Controller,ACS,no,no,PBMC vials not available,male,15
+145,03-0697,0,Controller,ACS,no,no,single cell data excluded_due_to_contamination,male,15
+146,07-1115,180,Controller,ACS,no,no,single cell data excluded_due_to_contamination,female,13
+147,04-1003,360,Controller,ACS,no,no,PBMC vials not available,female,15
+148,04-1003,540,Controller,ACS,no,no,PBMC vials not available,female,15
+149,07-0208,540,Controller,ACS,no,no,PBMC vials not available,female,17
+150,09-0745,0,Controller,ACS,no,no,single cell data excluded_due_to_contamination,female,14
+151,01-0524,0,Progressor,ACS,no,no,PBMC vials not available,female,12
+152,06-0127,0,Progressor,ACS,no,no,PBMC vials not available,female,18
+153,06-0127,180,Progressor,ACS,no,no,PBMC vials not available,female,18
+154,09-0624,0,Progressor,ACS,no,no,PBMC vials not available,female,17
+155,09-0489,0,Controller,ACS,no,no,PBMC vials not available,female,15
+156,09-0428,0,Progressor,ACS,no,no,PBMC vials not available,female,13
+157,06-0129,0,Progressor,ACS,no,no,PBMC vials not available,female,18
+158,06-0129,180,Progressor,ACS,no,no,PBMC vials not available,female,18
+159,09-0532,0,Progressor,ACS,no,no,PBMC vials not available,female,17
+160,1075,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+161,1114,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+162,1114,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+163,1239,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+164,1239,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+165,124,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,18
+166,124,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,18
+167,1445,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,15
+168,1445,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,15
+169,149,0,Progressor,GC6,no,yes,only bulk TCRseq performed,male,15
+170,15,0,Controller,GC6,no,yes,only bulk TCRseq performed,male,15
+171,161,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,17
+172,161,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,17
+173,165,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,17
+174,184,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,17
+175,184,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,17
+176,198,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+177,2,0,Progressor,GC6,no,yes,only bulk TCRseq performed,male,13
+178,2,180,Progressor,GC6,no,yes,only bulk TCRseq performed,male,13
+179,2077,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,16
+180,2097,540,Controller,GC6,no,yes,only bulk TCRseq performed,female,14
+181,2097,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,14
+182,2102,540,Controller,GC6,no,yes,only bulk TCRseq performed,female,16
+183,2102,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,16
+184,2228,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,13
+185,2864,540,Progressor,GC6,no,yes,only bulk TCRseq performed,female,16
+186,2864,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,16
+187,3094,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+188,3094,540,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+189,3094,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+190,3102,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,14
+191,3106,540,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+192,3106,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+193,353,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+194,353,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,19
+195,46,0,Controller,GC6,no,yes,only bulk TCRseq performed,male,15
+196,463,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,14
+197,463,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,14
+198,495,0,Controller,GC6,no,yes,only bulk TCRseq performed,male,15
+199,495,180,Controller,GC6,no,yes,only bulk TCRseq performed,male,15
+200,503,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+201,503,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+202,5357,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+203,5357,540,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+204,5357,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,15
+205,5662,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,17
+206,5662,540,Progressor,GC6,no,yes,only bulk TCRseq performed,female,17
+207,5662,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,17
+208,5918,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,13
+209,5918,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,13
+210,63,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,19
+211,63,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,19
+212,6302,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,12
+213,6302,180,Controller,GC6,no,yes,only bulk TCRseq performed,female,12
+214,647,0,Controller,GC6,no,yes,only bulk TCRseq performed,female,17
+215,650,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,19
+216,6665,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,14
+217,6665,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,14
+218,6675,0,Progressor,GC6,no,yes,only bulk TCRseq performed,female,19
+219,6675,540,Progressor,GC6,no,yes,only bulk TCRseq performed,female,19
+220,6675,180,Progressor,GC6,no,yes,only bulk TCRseq performed,female,19
+221,730,0,Controller,GC6,no,yes,only bulk TCRseq performed,male,15
+222,730,180,Controller,GC6,no,yes,only bulk TCRseq performed,male,15
+223,921,0,Progressor,GC6,no,yes,only bulk TCRseq performed,male,17
+224,921,180,Progressor,GC6,no,yes,only bulk TCRseq performed,male,17
+225,940,0,Controller,GC6,no,yes,only bulk TCRseq performed,male,12
+226,940,180,Controller,GC6,no,yes,only bulk TCRseq performed,male,12
+227,99,0,Controller,GC6,no,yes,only bulk TCRseq performed,male,14
+228,99,180,Controller,GC6,no,yes,only bulk TCRseq performed,male,14
